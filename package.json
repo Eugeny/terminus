@@ -58,7 +58,7 @@
     "sass-loader": "^12.1.0",
     "shell-quote": "^1.7.2",
     "shelljs": "0.8.4",
-    "slugify": "^1.5.3",
+    "slugify": "^1.6.0",
     "sortablejs": "^1.14.0",
     "source-code-pro": "^2.38.0",
     "source-map-loader": "^3.0.0",
