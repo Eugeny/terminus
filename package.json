@@ -27,7 +27,7 @@
     "compare-versions": "^3.6.0",
     "core-js": "^3.15.2",
     "cross-env": "7.0.3",
-    "css-loader": "5.2.6",
+    "css-loader": "6.2.0",
     "electron": "13.1.7",
     "electron-builder": "22.10.5",
     "electron-download": "^4.1.1",
