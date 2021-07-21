@@ -64,7 +64,7 @@
     "source-map-loader": "^3.0.0",
     "source-sans-pro": "3.6.0",
     "ssh2": "^1.1.0",
-    "style-loader": "^3.1.0",
+    "style-loader": "^3.2.1",
     "svg-inline-loader": "^0.8.2",
     "ts-loader": "^9.2.3",
     "tslib": "^2.3.0",
