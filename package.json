@@ -46,7 +46,7 @@
     "ngx-toastr": "^14.0.0",
     "node-abi": "^2.30.0",
     "node-sass": "^6.0.1",
-    "npmlog": "4.1.2",
+    "npmlog": "5.0.0",
     "npx": "^10.2.2",
     "patch-package": "^6.4.7",
     "pug": "^3.0.2",
