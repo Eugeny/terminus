@@ -21,7 +21,7 @@
   "author": "Eugene Pankov",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "16.0.1",
+    "@types/node": "16.4.1",
     "@types/ssh2": "^0.5.46",
     "ansi-colors": "^4.1.1",
     "sshpk": "Eugeny/node-sshpk#89ed17dfae425a8b629873c8337e77d26838c04f",
